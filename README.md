@@ -1,0 +1,3 @@
+The Premier League is by far one of the world’s most entertaining leagues. They have some of the best managers, players and fans! But what makes it truly entertaining is the sheer unpredictability. There are 20 equally amazing teams with a different team lifting the trophy every season. Not only that, the league has also witnessed victories from teams outside of the top 6 Big Teams. The PL is one of the most popular and competitive football leagues in the world with millions of fans watching from all around the world So, let us analyze some of these instances. 
+
+We will be using the Primer League dataset for the 2020–21 season. This is a free dataset that can be downloaded through a CSV file. It has the most up-to-date data regarding the Premier League this season.
